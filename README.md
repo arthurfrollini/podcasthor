@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="podcastr" title="podcastr" src="github/logo.png" />
+  <img alt="Podcasthor" title="Podcasthor" src="github/logo.png" />
 </h1>
 
 ## ✨ Tecnologias
@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
+O Podcasthor é um app para reprodução de episódios em áudio do seu podcast favorito.
 
 ## 🔖 Layout
 
@@ -30,7 +30,3 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥️ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
