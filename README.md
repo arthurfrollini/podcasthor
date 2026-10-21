@@ -2,31 +2,25 @@
   <img alt="Podcasthor" title="Podcasthor" src="github/logo.png" />
 </h1>
 
-## ✨ Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## ✨ Tech stack
 
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Projeto
+## 💻 About
 
-O Podcasthor é um app para reprodução de episódios em áudio do seu podcast favorito.
+Podcasthor is a web app for listening to episodes of your favorite podcast.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+The layout is available on [Figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). You need a Figma account to open it.
 
-## 🚀 Como executar
+## 🚀 Running it
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie a fake api com `yarn server`
-- Inicie o servidor com `yarn dev`
+- Clone the repository
+- Install dependencies with `yarn`
+- Start the fake API with `yarn server`
+- Start the dev server with `yarn dev`
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Then open [`localhost:3000`](http://localhost:3000) in your browser.
